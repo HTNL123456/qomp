@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>themes/blue.thm</file>
-        <file>themes/default.thm</file>
-    </qresource>
-</RCC>

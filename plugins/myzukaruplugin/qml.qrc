@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/MyzukaRuResultsView.qml</file>
-    </qresource>
-</RCC>

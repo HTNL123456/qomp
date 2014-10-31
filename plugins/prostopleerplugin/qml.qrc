@@ -1,6 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>qml/ProstoPleerResultView.qml</file>
-        <file>qml/ProstoPleerOptions.qml</file>
-    </qresource>
-</RCC>
